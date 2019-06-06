@@ -21,11 +21,13 @@ Requisitos do Produto
 
 #### Funcionalidades
 
- - Listagem de filmes
+ - A Listagem de filmes deve ser exibida no padrão de carroseis onde deveram ser exibidos pelo menos os carroseis de: Latest Movies, Now playing movies, Top rated movies, Popular movies e Upcoming movies.
  - Campo de busca por filmes
+ - Apresentação do(s) filme(s) encontrado(s)
  
 #### Funcionalidade opcional
 
+ - Exibir mais carroseis além dos desejados
  - Detalhe do filme
 
 #### Requisitos obrigatórios
@@ -40,7 +42,7 @@ Requisitos do Produto
 
  - Uso de animações para apresentação do conteúdo
  - Layout Responsivo
- - Busca automática (buscar na API conforme o usuário digita)
+ - Auto complete no campo de Busca (buscar na API conforme o usuário digita)
  - Utilizar React.js, Angular ou Vue.js
 
 ---------------------------
@@ -49,8 +51,6 @@ Critérios de avaliação
 
  - Qualidade de escrita do código
  - Organização do projeto
- - Consistência das classes do css/sass
- - Adaptação do layout aos diferentes tamanhos de tela
  - Utilização do Git (quantidade e descrição dos commits, utilização ou não de branches)
 
 ------------------------
