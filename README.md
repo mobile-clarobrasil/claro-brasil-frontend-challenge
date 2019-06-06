@@ -6,15 +6,6 @@ O objetivo deste desafio é avaliar a competência técnica da pessoa candadita 
 
 Será solicitado o desenvolvimento de um Web App que possibilitará o usuário(a) visualizar uma pagina inicial exibindo uma listagem de filmes e um campo onde possa ser realizada a busca por filmes.
 
---------------------------
-Especificações Técnicas
---------------------------
-
-- **Plataforma suportada:** Google Chrome e Firefox
-- **Dispositivos:** Desktop
-- **Idioma de escrita do código:** Inglês
-- **Idiomas da aplicação:** Português
-
 ----------------------
 Requisitos do Produto
 ----------------------
