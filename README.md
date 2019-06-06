@@ -1,1 +1,67 @@
-# claro-brasil-frontend-jr-challenge
+# Claro Brasil Challenge - FrontEnd Jr
+
+[![N|Solid](https://jobs.i-hunter.com/claro/views/logo.php)](https://www.claro.com.br/)
+
+O objetivo deste desafio é avaliar a competência técnica da pessoa desenvolvedora candadita a vaga de FrontEnd Jr no time Digital na **Claro Brasil**. 
+
+Será solicitado o desenvolvimento de um Web App que possibilitará o usuário(a) visualizar uma pagina inicial **sem login** exibindo uma listagem de filmes e um campo onde possa ser realizada a busca por filmes.
+
+--------------------------
+Especificações Técnicas
+--------------------------
+
+- **Plataforma suportada:** Google Chrome e Firefox
+- **Dispositivos:** Desktop
+- **Idioma de escrita do código:** Inglês
+- **Idiomas da aplicação:** Português
+
+----------------------
+Requisitos do Produto
+----------------------
+
+#### Funcionalidades
+
+ - Listagem de filmes
+ - Campo de busca por filmes
+ 
+#### Funcionalidade opcional
+
+ - Detalhe do filme
+
+#### Requisitos obrigatórios
+
+ - Utilização da API https://www.themoviedb.org/documentation/api
+ - Apresentar indicadores de carregamento durante a execução de todas as requisições ou operações assíncronas que demandem um tempo perceptível ao usuário
+ - Indicar para o(a) usuário(a) quando não há resultados na busca
+ - Indicar para o(a) usuário(a) quando ocorrer algum erro nas requisições
+ - Realizar requisições assíncronamente
+
+#### Requisitos desejáveis
+
+ - Uso de animações para apresentação do conteúdo
+ - Layout Responsivo
+ - Busca automática (buscar na API conforme o usuário digita)
+ - Utilizar React.js, Angular ou Vue.js
+
+---------------------------
+Critérios de avaliação
+---------------------------
+
+ - Qualidade de escrita do código
+ - Organização do projeto
+ - Consistência das classes do css/sass
+ - Adaptação do layout aos diferentes tamanhos de tela
+ - Utilização do Git (quantidade e descrição dos commits, utilização ou não de branches)
+
+------------------------
+Instruções de entrega
+----------------------------
+
+ 1. Crie um fork do repositório no seu GitHub
+ 2. Faça o push do código desenvolvido no seu Github
+ 3. Inclua um arquivo chamado COMMENTS.md explicando
+	 - Explicação rápida da decisão da arquitetura utilizada e o porquê
+	 - Lista de bibliotecas de teceiros utilizadas
+	 - O que você melhoraria se tivesse mais tempo
+	 - Quais requisitos obrigatórios não foram entregues e o porquê
+ 4. Informe ao recrutador quando concluir o desafio junto com o link do repositório
