@@ -4,7 +4,7 @@
 
 O objetivo deste desafio é avaliar a competência técnica da pessoa desenvolvedora candadita a vaga de FrontEnd no time Digital na **Claro Brasil**. 
 
-Será solicitado o desenvolvimento de um Web App que possibilitará o usuário(a) visualizar uma pagina inicial **sem login** exibindo uma listagem de filmes e um campo onde possa ser realizada a busca por filmes.
+Será solicitado o desenvolvimento de um Web App que possibilitará o usuário(a) visualizar uma pagina inicial exibindo uma listagem de filmes e um campo onde possa ser realizada a busca por filmes.
 
 --------------------------
 Especificações Técnicas
